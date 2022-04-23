@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+
+
+*{
+   margin: 0;
+   font-family: 'Orelega One', cursive;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   flex-wrap: wrap;
+    border: .3rem solid rgb(186, 173, 230);
+    width: 100vw;
+    height: 100vh;
+    SAD
+    
+}
+
+.container div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    padding: .5rem;
+   
+
+}
+
+.first-div{
+  background-color: yellow;
+  
+
+}
+
+.second-div{
+    background-color: rgb(0, 30, 255);
+}
+
+.third-div{
+background-color: rgb(243, 48, 48);
+}
+
+.fourth-div{
+background-color: aliceblue;
+}
+
+.fifth-div{
+background-color: bisque;
+}
+
+.sixth-div{
+background-color: brown;
+}
+
+.seventh-div{
+background-color: cornflowerblue;
+}
+
+.eighth-div{
+background-color: darkgrey;
+}
+
+.nith-div{
+background-color: darkslategray;
+}
