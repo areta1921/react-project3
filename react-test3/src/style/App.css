@@ -1,0 +1,72 @@
+body {
+    background-color: #1A1B21;
+}
+
+.emails {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    max-width: 18rem;
+    margin-left: 25%;
+
+}
+
+.text>p,
+.text>h1 {
+    max-width: 50%;
+    margin-left: 25%;
+    text-align: justify;
+}
+
+.center>h2,
+.center>h5,
+.center>p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 3%;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #161619;
+    padding: 25px 25px;
+}
+
+a {
+    width: 10%;
+}
+
+.text {
+    color: #F5F5F5;
+
+}
+
+h2 {
+    color: white;
+}
+
+h5 {
+    color: #F3BF99;
+}
+
+.ethio {
+    background-color: #FFFFFF;
+    padding: 25px 25px;
+}
+
+.ethioo {
+    background-color: #5093E2;
+    padding: 25px 25px;
+}
+
+.website {
+    color: #F5F5F5;
+}
